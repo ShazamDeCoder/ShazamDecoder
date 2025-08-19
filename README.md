@@ -62,7 +62,7 @@ I believe in the power of turning ideas into reality through code.
 
 <div align="center">
 
-  <a href="adiomubarakadebukola2026@gmail.com">
+  <a href="mailto: adiomubarakadebukola2026@gmail.com">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/adiomubarak76">
