@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Mubarak  
+# Hi I'm Mubarak<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">   
 
 <div align="center">  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Developer;Frontend+Enthusiast;Problem+Solver;Always+Learning!" alt="Typing SVG" />  
@@ -40,22 +40,6 @@ I taught myself web development by replicating real-world websites, which helped
 
 ---
 
-## 📊 GitHub Stats  
-
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=ShazamDecoder&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Mubarak's GitHub Stats" />  
-</div>  
-
-<div align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShazamDecoder&theme=radical&hide_border=true" alt="Mubarak's GitHub Streak" />  
-</div>  
-
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShazamDecoder&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />  
-</div>  
-
----
-
 ## 🌟 What Drives Me  
 
 I'm passionate about creating solutions that people can interact with and benefit from.  
@@ -74,18 +58,20 @@ I believe in the power of turning ideas into reality through code.
 
 ---
 
-## 📈 Activity Graph  
-
-<div align="center">  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShazamDecoder&theme=react-dark&hide_border=true&area=true" alt="Mubarak's Activity Graph" />  
-</div>  
-
----
-
 ## 🤝 Let's Connect!  
 
-<div align="center">  
-  [Email](mailto:your-email@gmail.com) • [LinkedIn](https://www.linkedin.com/in/adiomubarak76) • [Twitter](https://x.com/Mkayshazam?t=4UeOWjkfciDCGzjHMqxa4w&s=09)  
+<div align="center">
+
+  <a href="adiomubarakadebukola2026@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/adiomubarak76">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/Mkayshazam?t=4UeOWjkfciDCGzjHMqxa4w&s=09">
+    <img src="https://img.icons8.com/fluency/48/twitterx.png" alt="Twitter"/>
+  </a>
+
 </div>  
 
 <div align="center">  
@@ -95,5 +81,5 @@ I believe in the power of turning ideas into reality through code.
 **💼 Open for opportunities and collaboration!**  
 
 <div align="center">  
-  *"The best way to predict the future is to create it."*  
+  The best way to predict the future is to create it. 
 </div>
