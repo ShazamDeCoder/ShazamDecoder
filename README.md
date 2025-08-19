@@ -58,7 +58,7 @@ I believe in the power of turning ideas into reality through code.
 
 ---
 
-## 🤝 Let's Connect!  
+## 🤝 Reach out to me, Let's Connect!  
 
 <div align="center">
 
